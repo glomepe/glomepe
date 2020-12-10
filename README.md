@@ -11,7 +11,7 @@
 <!-- Présentation -->
 # 👋 .. Salut 
 
-Moi c'est Guillaume, passionné du développement web et autodidacte depuis maintenant plusieurs années, je consacre mes heures perdues à me former et me rensigner sur les nouveautés du web. je partage ici mes expérimentations et mes créations. Vous pouvez aussi retrouver d'autres projets sur [mon portfolio](https://iamgpe.me). Bon voyage.
+Moi c'est Guillaume, passionné du développement web et autodidacte depuis maintenant plusieurs années, je consacre mes heures perdues à me former et me renseigner sur les nouveautés du web. je partage ici mes expérimentations et mes créations. Vous pouvez aussi retrouver d'autres projets sur [mon portfolio](https://iamgpe.me). Bon voyage.
 
 Je suis actuellement à la recherche de nouvelles opportunités professionnelles.
 
