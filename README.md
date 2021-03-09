@@ -24,6 +24,6 @@ Moi c'est Guillaume, passionné du développement web et autodidacte depuis main
 
 **Frameworks**: VueJS - Laravel - Laravel Nova
 
-**Langages**: HTML/CSS - SASS - JavaScript - NodeJS - TypeScript - PHP - SQL
+**Langages**: HTML/CSS - SASS - JavaScript - NodeJS - TS (un peu) - PHP - SQL
 
-**Logiciels & Outils**: Webpack - Figma - PHPStorm - Github - Windows/Ubuntu
+**Logiciels & Outils**: Figma - PHPStorm - Github - Windows/Ubuntu - Mon cerveau
