@@ -6,7 +6,6 @@
 
 [1]: https://www.linkedin.com/in/iamguillaumepe
 [2]: https://www.github.com/iamgpe
-[3]: https://iamgpe.me
 
 <!-- Présentation -->
 # 👋 .. Salut 
@@ -15,7 +14,6 @@ Moi c'est Guillaume, passionné du développement web et autodidacte depuis main
 
 [![linkedin][1.1]][1]
 [![github][2.1]][2]
-[![portfolio][3.1]][3]
 
 ---
 
@@ -24,6 +22,6 @@ Moi c'est Guillaume, passionné du développement web et autodidacte depuis main
 
 **Frameworks**: VueJS - Laravel - Laravel Nova
 
-**Langages**: HTML/CSS - SASS - JavaScript - NodeJS - TS (un peu) - PHP - SQL
+**Langages**: HTML/CSS - SASS - JavaScript - NodeJS - TS - PHP - SQL
 
-**Logiciels & Outils**: Figma - PHPStorm - Github - Windows/Ubuntu - Mon cerveau
+**Logiciels & Outils**: Figma - PHPStorm - Github - Ubuntu - Mon cerveau
