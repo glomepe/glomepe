@@ -17,8 +17,8 @@ Moi c'est Guillaume, passionné du développement web et autodidacte depuis main
 <!-- Technos utilisées -->
 ## 💻 .. J'utilise des technos comme
 
-**Frameworks**: VueJS - Laravel - Laravel Nova
+**Frameworks**: VueJS - Laravel - Tailwind - Bootstrap
 
-**Langages**: HTML/CSS - SASS - JavaScript - NodeJS - TS - PHP - SQL
+**Langages**: HTML/CSS - SCSS - JavaScript - NodeJS - TS - PHP - SQL
 
-**Logiciels & Outils**: Figma - PHPStorm - Github - Ubuntu - Mon cerveau
+**Logiciels & Outils**: Figma - PHPStorm - Github - Ubuntu - Mon cerveau & mes 10 doigts
