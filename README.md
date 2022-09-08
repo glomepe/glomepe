@@ -17,7 +17,7 @@ Moi c'est Guillaume, passionné du développement web et autodidacte depuis main
 <!-- Technos utilisées -->
 ## 💻 .. J'utilise des technos comme
 
-**Frameworks**: VueJS - Laravel - Tailwind - Bootstrap
+**Frameworks**: VueJS - Laravel - Symfony - Tailwind
 
 **Langages**: HTML/CSS - SCSS - JavaScript - NodeJS - TS - PHP - SQL
 
