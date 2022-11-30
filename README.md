@@ -14,8 +14,6 @@ I'm Guillaume, passionate about web development and self-taught for several year
 [![github][2.1]][2]
 [![linkedin][3.1]][3]
 
----
-
 <!-- Technos utilisées -->
 ## 💻 .. I use technologies like
 
