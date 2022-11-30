@@ -7,9 +7,9 @@
 [3]: https://www.linkedin.com/in/iamguillaumepe/
 
 <!-- Présentation -->
-# 👋 .. Salut 
+# 👋 .. Hi ! 
 
-Moi c'est Guillaume, passionné du développement web et autodidacte depuis maintenant plusieurs années, je consacre mes heures perdues à me former et me renseigner sur les nouveautés du web. je partage ici mes expérimentations et mes créations. Bon voyage.
+I'm Guillaume, passionate about web development and self-taught for several years now and having a natural apetence towards beautiful things, I devote my spare time to train and learn about the latest web / graphic trends of the moment as well as to train myself on technos as crazy as each other in order to create the perfect combo between beauty and comfort. Welcome to my world.
 
 [![github][2.1]][2]
 [![linkedin][3.1]][3]
@@ -17,10 +17,10 @@ Moi c'est Guillaume, passionné du développement web et autodidacte depuis main
 ---
 
 <!-- Technos utilisées -->
-## 💻 .. J'utilise des technos comme
+## 💻 .. I use technologies like
 
-**Frameworks & Plateformes**: VueJS - NodeJS - Laravel - Symfony - Tailwind et un peu de React
+**Frameworks & Plateforms**: VueJS - NodeJS - Laravel - Symfony - Tailwind et un peu de React
 
-**Langages**: HTML/CSS - SCSS - JavaScript - TS - PHP - SQL
+**Languages**: HTML/CSS - SCSS - JavaScript - TS - PHP - SQL
 
-**Logiciels & Outils**: Figma - PHPStorm - Github - Ubuntu - MacOS - Mon cerveau & mes 10 doigts
+**Softwares & Utils**: Figma - PHPStorm - Github - Ubuntu - MacOS - Mon cerveau & mes 10 doigts
