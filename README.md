@@ -1,16 +1,14 @@
-<!-- Présentation -->
-# 👋 .. Hi ! 
+# 👋 .. Hi!
 
-I'm Guillaume, passionate about web development and self-taught for several years now and having a natural apetence towards beautiful things, I devote my spare time to train and learn about the latest web / graphic trends of the moment as well as to train myself on technos as crazy as each other in order to create the perfect combo between beauty and comfort. Welcome to my world.
+Welcome to my GitHub profile!
+My name is Guillaume, and I'm a passionate self-taught web developer with several years of experience. I have a natural inclination towards creating beautiful things and spend my free time exploring the latest web and graphic design trends. I'm constantly learning and training myself on new technologies, striving to create the perfect balance between aesthetics and functionality.
 
-[LinkedIn](https://www.linkedin.com/in/iamguillaumepe/)<br>
-[Packagist](https://packagist.org/users/iamgpe/)
+[LinkedIn](https://www.linkedin.com/in/iamguillaumepe/) | [Packagist](https://packagist.org/users/iamgpe/)
 
-<!-- Technos utilisées -->
-## 💻 .. I use technologies like
+## 💻 .. Technologies I Use
 
-**Frameworks**: VueJS - NodeJS - Laravel - Symfony - Tailwind - StencilJS - CatalystJS
+**Frameworks**: VueJS, NodeJS, Laravel, Symfony, Tailwind, StencilJS, CatalystJS
 
-**Languages**: HTML/CSS - SCSS - JavaScript - TS - PHP - SQL
+**Languages**: HTML/CSS, SCSS, JavaScript, TypeScript, PHP, SQL
 
-**Softwares & Utils**: Figma - PHPStorm - Github - Ubuntu - MacOS - My brain and my 10 fingers
+**Tools & Utilities**: Figma, PHPStorm, GitHub, Ubuntu, MacOS, My brain and my 10 fingers
