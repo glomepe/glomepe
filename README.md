@@ -7,7 +7,7 @@ My name is Guillaume, and I'm a passionate self-taught web developer with severa
 
 ## 💻 .. Technologies I Use
 
-**Frameworks**: React, VueJS, NodeJS, Laravel, Symfony, Tailwind, StencilJS, Adonis, React Native
+**Frameworks**: React, VueJS, Laravel, Tailwind, StencilJS, Adonis, React Native
 
 **Languages**: HTML/CSS, SCSS, JavaScript, TypeScript, PHP, SQL
 
